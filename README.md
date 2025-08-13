@@ -1,4 +1,4 @@
-# 📱 Contact Manager
+# 📱 Contact Manager https://board-manager.vercel.app/
 
 A modern, responsive web application for managing professional contacts and networking boards. Built with Next.js 15.4, TypeScript, and TailwindCSS, featuring a beautiful glassmorphism design and seamless user experience.
 
